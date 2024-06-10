@@ -182,11 +182,63 @@ Bask (Batalha da Norte)
 
 ??? (Batalha da Selva SP) - 11/06
 
+??? (Batalha do Morro) - 12/06
+
+??? (Batalha Tucuruvi) - 20/06
+
+??? (Batalha da Fábrica) - 22/06
+
+??? (Batalha do Senna ZN) - 29/06
+
+??? (Batalha Tremembé) - 30/06
+
+??? (Batalha da Juventude) - 02/07
+
+??? (Batalha da Brasilândia) - 03/07
+
+??? (Batalha do Canaã) - 06/07
+
+??? (Batalha do Wi-fi) - 07/07
+
+??? (Batalha do Suco) - 09/07
+
+??? (????/Diversidade) - A definir
+
 ----------------------------------------------------
 
 - Regional 07
 
 Guizap (Batalha da Zil)
+
+??? (Batalha da Arte) - 12/06
+
+??? (Resenha Central) - 16/06
+
+??? (Arena MC) - 21/06
+
+??? (Batalha da Esperança) - 22/06
+
+??? (Batalha do Escadão) - 25/06
+
+??? (Batalha do América) - 28/06
+
+??? (Batalha da Teles) - 28/06
+
+??? (Batalha da Leste) - 29/06
+
+??? (@abatalhadohelena) - 29/06
+
+??? (Batalha do Cruzeiro) - 05/07
+
+??? (Batalha do Pira) - 06/07
+
+??? (Batalha Nois Por Nois) - 07/07
+
+??? (Batalha da PX) - 07/07
+
+??? (Batalha dos Loko) - 10/07
+
+??? (????/Diversidade) - A definir
 
 ----------------------------------------------------
 
