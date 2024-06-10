@@ -1,21 +1,37 @@
 *Classificados Regional São Paulo*
 
 - Regional 01
+
 ??? (Batalha do Pirituba) - 11/06
+
 ??? (Batalha da Joker) - 14/06
+
 ??? (Batalha do Milênio) - 15/06
+
 ??? (Batalha da Pista Indaiatuba) - 15/06
+
 ??? (Batalha da Pista Perus) - 16/06
+
 ??? (Batalha Estação da Rima) - 17/06
+
 ??? (Batalha da Home) - 18/06
+
 ??? (Duelo Du Bronks) - 21/06
+
 ??? (Batalha do Largo) - 22/06
+
 ??? (Batalha dos Reais) - 22/06
+
 ??? (APPLE GREEN) - 27/06
+
 ??? (Batalha do Cantareira) - 27/06
+
 ??? (Batalha do Parque ZN) - 29/06
+
 ??? (Batalha da Rubi) - 01/07
+
 ??? (Batalha da Estação) - 06/07
+
 ??? (Batalha Estação da Rima/Diversidade) - 08/07
 
 - Regional 02 
