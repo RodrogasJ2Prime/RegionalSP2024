@@ -1,7 +1,6 @@
 *Classificados Regional São Paulo*
 
 - Regional 01
-
 ??? (Batalha do Pirituba) - 11/06
 
 ??? (Batalha da Joker) - 14/06
@@ -34,22 +33,38 @@
 
 ??? (Batalha Estação da Rima/Diversidade) - 08/07
 
+
 - Regional 02 
 Guri (Batalha da Aldeia)
+
 Levinsk (Batalha da Aldeia)
+
 ??? (Largo da Batalha) - 19/06
+
 ??? (Largo da Batalha) - 19/06
+
 ??? (Batalha da Divisão) - 21/06
+
 ??? (UNIÃO FREESTYLE) - 21/06
+
 ??? (UNIÃO FREESTYLE) - 21/06
+
 ??? (Batalha Sexta Rap) - 21/06 
+
 ??? (Batalha Sexta Rap) - 21/06 
+
 ??? (Cotia Tem Rap) - 06/07
+
 ??? (Batalha da Stand) - 06/07
+
 ??? (Batalha do Qpar) - 07/07
+
 ??? (Batalha da 2M) - 07/07
+
 ??? (Batalha do Villa) - 07/07
+
 ??? (????/Diversidade) - A definir
+
 
 - Regional 03
 ??? (Batalha da Martinha) - 13/06
