@@ -246,6 +246,36 @@ Guizap (Batalha da Zil)
 
 Zaias (Batalha dos Trilhos)
 
+??? (Batalha da Bíblia) - 14/06
+
+??? (Batalha do Pasin) - 21/06
+
+??? (Batalha do Centro) - 23/06
+
+??? (Batalha do Morro) - 23/06
+
+??? (Batalha da Montanha) - 25/06
+
+??? (Batalha da Ponte) - 27/06
+
+??? (Batalha da Exque) - 28/06
+
+??? (Batalha do Polly) - 29/06
+
+??? (Duelo de Rua) - 29/06
+
+??? (Batalha do Beco Diagonal 012) - 03/07
+
+??? (Pedrada Taiada) - 05/07
+
+??? (Pavilhão de Rimas) - 06/07
+
+??? (Batalha do Correto 012) - 06/07
+
+??? (Batalha do Deck) - 07/07
+
+??? (????/Diversidade) - A definir
+
 ----------------------------------------------------
 
 - Regional 013
