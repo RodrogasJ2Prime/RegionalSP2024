@@ -134,7 +134,7 @@ Zaias (Batalha dos Trilhos)
 
 - Regional 013
 Tubarão (Batalha da Conselheiro)
-??? (Batalha do Doiz7)
+Seven (Batalha do Doiz7)
 Stiller (Batalha do Belas Artes)
 
 - Regional 014
