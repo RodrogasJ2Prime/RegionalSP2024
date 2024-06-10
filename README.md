@@ -1,6 +1,7 @@
 *Classificados Regional São Paulo*
 
 - Regional 01
+
 ??? (Batalha do Pirituba) - 11/06
 
 ??? (Batalha da Joker) - 14/06
@@ -35,6 +36,7 @@
 
 
 - Regional 02 
+
 Guri (Batalha da Aldeia)
 
 Levinsk (Batalha da Aldeia)
