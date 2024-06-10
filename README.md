@@ -34,6 +34,7 @@
 
 ??? (Batalha Estação da Rima/Diversidade) - 08/07
 
+----------------------------------------------------
 
 - Regional 02 
 
@@ -67,6 +68,7 @@ Levinsk (Batalha da Aldeia)
 
 ??? (????/Diversidade) - A definir
 
+----------------------------------------------------
 
 - Regional 03
 ??? (Batalha da Martinha) - 13/06
