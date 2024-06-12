@@ -286,11 +286,65 @@ Seven (Batalha do Doiz7)
 
 Stiller (Batalha do Belas Artes)
 
+??? (Batalha do Céu) - 15/06
+
+??? (Batalha do Caoz) - 16/06
+
+??? (Batalha do Skinão) - 18/06
+
+??? (Batalha da Santa 013) - 20/06
+
+??? (Batalha da B1) - 21/06
+
+??? (Batalha do Mundão) - 24/06
+
+??? (Batalha da Celeste) - 27/06
+
+??? (Batalha do Buda) - 05/07
+
+??? (Batalha do Guaraú) - 05/07
+
+??? (Batalha da Guerra) - 07/07
+
+??? (Batalha do Caoz/Diversidade) - 07/07
+
+??? (Batalha do X) - 08/07
+
 ----------------------------------------------------
 
 - Regional 014
 
 Zoio Baixo (Batalha dos 13)
+
+??? (Batalha do Lago) - 16/06
+
+??? (Batalha do Brejão) - 22/06
+
+??? (Batalha do Brejão) - 22/06
+
+??? (Batalha da CKP) - 23/06
+
+??? (Batalha da Baliza) - 24/06
+
+??? (Batalha do Rasi) - 26/06
+
+??? (Batalha da Pista) - 28/06
+
+??? (Batalha da Pista) - 28/06
+
+??? (Batalha Bthz) - 29/06
+
+??? (Batalha Bthz) - 29/06
+
+??? (Batalha da BSP) - 06/07
+
+??? (Batalha da 014) - 07/07
+
+??? (Batalha da Maracatu) - 07/07
+
+??? (Batalha da Maracatu) - 07/07
+
+??? (????/Diversidade) - A definir
 
 ----------------------------------------------------
 
@@ -302,6 +356,30 @@ Hayato (Batalha das Capivaras)
 
 Osama (Batalha da Rua 15)
 
+??? (Batalha da Anchieta) - 27/06
+
+??? (Batalha da Anchieta) - 27/06
+
+??? (Batalha da Fênix) - 29/06
+
+??? (Batalha da Fênix) - 29/06
+
+??? (Batalha do VTR) - 04/07
+
+??? (Resenha dos MCs) - 05/07
+
+??? (Resenha dos MCs) - 05/07
+
+??? (Duelo dos Menor) - 06/07
+
+??? (Duelo dos Menor) - 06/07
+
+??? (Batalha do Senna) - 06/07
+
+??? (Batalha do Senna) - 06/07
+
+??? (????/Diversidade) - A definir
+
 ----------------------------------------------------
 
 - Regional 016
@@ -309,6 +387,34 @@ Osama (Batalha da Rua 15)
 Jhow (Batalha da Torpedo)
 
 ??? (Batalha da Ressaca) - 11/06
+
+??? (Batalha da Alcateia) - 12/06
+
+??? (Boom Battle) - 15/06
+
+??? (Batalha da Fonte) - 16/06
+
+??? (Batalha Nova Era) - 20/06
+
+??? (Batalha Nova Era) - 20/06
+
+??? (Batalha dos Pombos) - 20/06
+
+??? (Sangue na 7) - 04/07
+
+??? (Sangue na 7/ - 04/07
+
+??? (Batalha da YinYang) - 05/07
+
+??? (Batalha da Vibe) - 06/07
+
+??? (Batalha do Leporace) - 07/07
+
+??? (Batalha do Leporace) - 07/07
+
+??? (Batalha das Monas) - 07/07
+
+??? (????/Diversidade) - A definir
 
 ----------------------------------------------------
 
