@@ -2,9 +2,11 @@
 
 *Lembrando que MCs podem ser remanejados para outro Regional
 
-- Regional 01
+# Regional 011
 
-Fortes (Batalha do Pirituba) - 11/06
+- Região Metropolitana 01
+
+Fortes (Batalha do Pirituba)
 
 ??? (Batalha da Joker) - 14/06
 
@@ -38,7 +40,7 @@ Fortes (Batalha do Pirituba) - 11/06
 
 ----------------------------------------------------
 
-- Regional 02 
+- Região Metropolitana 02 
 
 Guri (Batalha da Aldeia)
 
@@ -72,7 +74,7 @@ Levinsk (Batalha da Aldeia)
 
 ----------------------------------------------------
 
-- Regional 03
+- Região Metropolitana 03
 
 ??? (Batalha da Martinha) - 13/06
 
@@ -108,7 +110,7 @@ Levinsk (Batalha da Aldeia)
 
 ----------------------------------------------------
 
-- Regional 04
+- Região Metropolitana 04
 
 Baueb (Batalha do Chico)
 
@@ -142,7 +144,7 @@ Vick Vi (Batalha do Ana Rosa/Diversidade)
 
 ----------------------------------------------------
 
-- Regional 05
+- Região Metropolitana 05
 
 Maria ZN (Batalha do Ana Rosa/Diversidade)
 
@@ -174,13 +176,13 @@ Maria ZN (Batalha do Ana Rosa/Diversidade)
 
 ----------------------------------------------------
 
-- Regional 06 
+- Região Metropolitana 06 
 
 Prado (Batalha do S)
 
 Bask (Batalha da Norte)
 
-Meno do Jota (Batalha da Selva SP) - 11/06
+Meno do Jota (Batalha da Selva SP)
 
 ??? (Batalha do Morro) - 12/06
 
@@ -206,7 +208,7 @@ Meno do Jota (Batalha da Selva SP) - 11/06
 
 ----------------------------------------------------
 
-- Regional 07
+- Região Metropolitana 07
 
 Guizap (Batalha da Zil)
 
@@ -242,7 +244,7 @@ Guizap (Batalha da Zil)
 
 ----------------------------------------------------
 
-- Regional 012
+# Regional 012
 
 Zaias (Batalha dos Trilhos)
 
@@ -278,7 +280,7 @@ Zaias (Batalha dos Trilhos)
 
 ----------------------------------------------------
 
-- Regional 013
+# Regional 013
 
 Tubarão (Batalha da Conselheiro)
 
@@ -312,7 +314,7 @@ Stiller (Batalha do Belas Artes)
 
 ----------------------------------------------------
 
-- Regional 014
+# Regional 014
 
 Zoio Baixo (Batalha dos 13)
 
@@ -348,7 +350,7 @@ Zoio Baixo (Batalha dos 13)
 
 ----------------------------------------------------
 
-- Regional 015
+# Regional 015
 
 Mister do HDS (Batalha das Capivaras)
 
@@ -382,11 +384,11 @@ Osama (Batalha da Rua 15)
 
 ----------------------------------------------------
 
-- Regional 016
+# Regional 016
 
 Jhow (Batalha da Torpedo)
 
-HRM (Batalha da Ressaca) - 11/06
+HRM (Batalha da Ressaca)
 
 ??? (Batalha da Alcateia) - 12/06
 
@@ -418,7 +420,7 @@ HRM (Batalha da Ressaca) - 11/06
 
 ----------------------------------------------------
 
-- Regional 017
+# Regional 017
 
 ??? (Duelo do Estrela) - 12/06
 
@@ -452,7 +454,7 @@ HRM (Batalha da Ressaca) - 11/06
 
 ----------------------------------------------------
 
-- Regional 018
+# Regional 018
 
 ??? (Batalha das Letras) - 14/06
 
@@ -488,7 +490,7 @@ HRM (Batalha da Ressaca) - 11/06
 
 ----------------------------------------------------
 
-- Regional 019
+# Regional 019
 
 Pedrin (Batalha Sem Saída)
 
