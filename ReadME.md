@@ -180,7 +180,7 @@ Prado (Batalha do S)
 
 Bask (Batalha da Norte)
 
-??? (Batalha da Selva SP) - 11/06
+Meno do Jota (Batalha da Selva SP) - 11/06
 
 ??? (Batalha do Morro) - 12/06
 
@@ -386,7 +386,7 @@ Osama (Batalha da Rua 15)
 
 Jhow (Batalha da Torpedo)
 
-??? (Batalha da Ressaca) - 11/06
+HRM (Batalha da Ressaca) - 11/06
 
 ??? (Batalha da Alcateia) - 12/06
 
