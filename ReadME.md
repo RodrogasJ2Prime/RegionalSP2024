@@ -4,7 +4,7 @@
 
 - Regional 01
 
-??? (Batalha do Pirituba) - 11/06
+Fortes (Batalha do Pirituba) - 11/06
 
 ??? (Batalha da Joker) - 14/06
 
