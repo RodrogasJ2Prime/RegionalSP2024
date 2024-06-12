@@ -1,4 +1,4 @@
-*Classificados Regional São Paulo*
+# *Classificados Regional São Paulo*
 
 *Lembrando que MCs podem ser remanejados para outro Regional
 
