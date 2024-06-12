@@ -420,12 +420,104 @@ Jhow (Batalha da Torpedo)
 
 - Regional 017
 
+??? (Duelo do Estrela) - 12/06
+
+??? (Duelo do Estrela) - 12/06
+
+??? (Batalha do Monte) - 15/06
+
+??? (Batalha do Monte) - 15/06
+
+??? (Batalha do Pacha) - 26/06
+
+??? (Batalha do Pacha) - 26/06
+
+??? (Batalha do Primavera) - 28/06
+
+??? (Batalha do Primavera) - 28/06
+
+??? (Batalha do Half) - 29/06
+
+??? (Batalha do Half) 29/06
+
+??? (Batalha do Braile) - 07/07
+
+??? (Batalha do Braile) - 07/07
+
+??? (Batalha da Constru) - ??/??
+
+??? (Batalha da Constru) - ??/??
+
+??? (????/Diversidade) - A definir
+
 ----------------------------------------------------
 
 - Regional 018
+
+??? (Batalha das Letras) - 14/06
+
+??? (Batalha da Matriz) - 18/06
+
+??? (Batalha da Môntica) - 19/06
+
+??? (Batalha da Jóia) - 21/06
+
+??? (Batalha da Pérola) - 29/06
+
+??? (Batalha da Pista) - 30/06
+
+??? (Batalha do Ceu's) - 30/06
+
+??? (Batalha da Estação 018) - 04/07
+
+??? (Batalha do Fluxo) - 05/07
+
+??? (Batalha da Coroa) - 06/07
+
+??? (Batalha da Caveira) - 07/07
+
+??? (Freestyle Battles) - 07/07
+
+??? (Batalha da Concha) - 08/07
+
+??? (Terça Flow) - 09/07
+
+??? (Oficina de Freestyle) - 09/07
+
+??? (Oficina de Freestyle/Diversidade) - 21/07
 
 ----------------------------------------------------
 
 - Regional 019
 
 Pedrin (Batalha Sem Saída)
+
+??? (Batalha do Levante) - 15/06
+
+??? (Batalha do CEU) - 16/06
+
+??? (Batalha do Parque) - 20/06
+
+??? (Guerrilha Verbal) - 21/06
+
+??? (Batalha do Cálice) - 21/06
+
+??? (Batalha da DZ9) - 23/06
+
+??? (Batalha da Hípica) - 23/06
+
+??? (Batalha Central) - 28/06
+
+??? (Indaia Batalha) - 30/06
+
+??? (Alvorecer) - 30/06
+
+??? (Batalha da Norte 019) - 30/06
+
+??? (Batalha da WL) - 04/07
+
+??? (Batalha do Beco) - 05/07
+
+??? (Duelo da DZ9) - 07/07
+
+??? (Batalha Estação de Rima/Diversidade) - 08/07
