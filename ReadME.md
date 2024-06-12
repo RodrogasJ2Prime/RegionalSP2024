@@ -64,7 +64,7 @@ Levinsk (Batalha da Aldeia)
 
 ??? (Batalha da Stand) - 06/07
 
-× -Batalha do Qpar- - Banida por descumprimento de regras
+~Batalha do Qpar~ - Banida por descumprimento de regras
 
 ??? (Batalha da 2M) - 07/07
 
