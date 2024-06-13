@@ -184,7 +184,7 @@ Bask (Batalha da Norte)
 
 Meno do Jota (Batalha da Selva SP)
 
-??? (Batalha do Morro) - 12/06
+Refel (Batalha do Morro)
 
 ??? (Batalha Tucuruvi) - 20/06
 
@@ -212,7 +212,7 @@ Meno do Jota (Batalha da Selva SP)
 
 Guizap (Batalha da Zil)
 
-??? (Batalha da Arte) - 12/06
+Jorgin (Batalha da Arte)
 
 ??? (Resenha Central) - 16/06
 
@@ -390,7 +390,7 @@ Jhow (Batalha da Torpedo)
 
 HRM (Batalha da Ressaca)
 
-??? (Batalha da Alcateia) - 12/06
+Satsu (Batalha da Alcateia)
 
 ??? (Boom Battle) - 15/06
 
@@ -422,9 +422,9 @@ HRM (Batalha da Ressaca)
 
 # Regional 017
 
-??? (Duelo do Estrela) - 12/06
+Naka (Duelo do Estrela)
 
-??? (Duelo do Estrela) - 12/06
+JL (Duelo do Estrela)
 
 ??? (Batalha do Monte) - 15/06
 
