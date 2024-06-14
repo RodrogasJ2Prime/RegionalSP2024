@@ -76,7 +76,7 @@ Levinsk (Batalha da Aldeia)
 
 - Região Metropolitana 03
 
-??? (Batalha da Martinha) - 13/06
+Wills (Batalha da Martinha)
 
 ??? (Batalha da D) - 16/06
 
