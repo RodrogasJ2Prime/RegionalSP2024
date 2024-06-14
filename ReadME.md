@@ -116,9 +116,9 @@ Baueb (Batalha do Chico)
 
 Vick Vi (Batalha do Ana Rosa/Diversidade)
 
-??? (Batalha do Ana Rosa) - 13/06
+Apollo (Batalha do Ana Rosa)
 
-??? (Batalha da Penha) - 13/06
+Nego da ZN (Batalha da Penha)
 
 ??? (Batalha do Imigra) - 15/06
 
