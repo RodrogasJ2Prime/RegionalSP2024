@@ -8,7 +8,7 @@
 
 Fortes (Batalha do Pirituba)
 
-??? (Batalha da Joker) - 14/06
+Shakal (Batalha da Joker)
 
 ??? (Batalha do Milênio) - 15/06
 
@@ -248,7 +248,7 @@ Jorgin (Batalha da Arte)
 
 Zaias (Batalha dos Trilhos)
 
-??? (Batalha da Bíblia) - 14/06
+Chagas (Batalha da Bíblia)
 
 ??? (Batalha do Pasin) - 21/06
 
