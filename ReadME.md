@@ -10,9 +10,9 @@ Fortes (Batalha do Pirituba)
 
 Shakal (Batalha da Joker)
 
-??? (Batalha do Milênio) - 15/06
+Iago MC (Batalha do Milênio)
 
-??? (Batalha da Pista Indaiatuba) - 15/06
+Lobão (Batalha da Pista Indaiatuba)
 
 ??? (Batalha da Pista Perus) - 16/06
 
@@ -120,7 +120,7 @@ Apollo (Batalha do Ana Rosa)
 
 Nego da ZN (Batalha da Penha)
 
-??? (Batalha do Imigra) - 15/06
+Durap (Batalha do Imigra)
 
 ??? (Batalha do Carrão) - 17/06
 
@@ -288,7 +288,7 @@ Seven (Batalha do Doiz7)
 
 Stiller (Batalha do Belas Artes)
 
-??? (Batalha do Céu) - 15/06
+Roddy MC (Batalha do Céu) - 15/06
 
 ??? (Batalha do Caoz) - 16/06
 
@@ -392,7 +392,7 @@ HRM (Batalha da Ressaca)
 
 Satsu (Batalha da Alcateia)
 
-??? (Boom Battle) - 15/06
+??? (Boom Battle) - 15/06 (sem informações)
 
 ??? (Batalha da Fonte) - 16/06
 
@@ -426,9 +426,9 @@ Naka (Duelo do Estrela)
 
 JL (Duelo do Estrela)
 
-??? (Batalha do Monte) - 15/06
+Zanini (Batalha do Monte)
 
-??? (Batalha do Monte) - 15/06
+Mai MC (Batalha do Monte)
 
 ??? (Batalha do Pacha) - 26/06
 
@@ -494,7 +494,7 @@ JL (Duelo do Estrela)
 
 Pedrin (Batalha Sem Saída)
 
-??? (Batalha do Levante) - 15/06
+??? (Batalha do Levante) - 15/06 (sem informações)
 
 ??? (Batalha do CEU) - 16/06
 
