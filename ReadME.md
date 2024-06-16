@@ -392,7 +392,7 @@ HRM (Batalha da Ressaca)
 
 Satsu (Batalha da Alcateia)
 
-??? (Boom Battle) - 15/06 (sem informações)
+??? (Boom Battle) - 15/06 (sem informações, mas suponho que o Akira tenha sido campeão)
 
 ??? (Batalha da Fonte) - 16/06
 
@@ -456,7 +456,7 @@ Mai MC (Batalha do Monte)
 
 # Regional 018
 
-??? (Batalha das Letras) - 14/06
+??? (Batalha das Letras) - 14/06 (literalmente sem nenhuma informação)
 
 ??? (Batalha da Matriz) - 18/06
 
