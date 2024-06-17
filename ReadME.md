@@ -496,7 +496,7 @@ Pedrin (Batalha Sem Saída)
 
 Tavio (Batalha do Levante)
 
-??? (Batalha do CEU) - 16/06 (sem informações)
+Disom (Batalha do CEU)
 
 ??? (Batalha do Parque) - 20/06
 
