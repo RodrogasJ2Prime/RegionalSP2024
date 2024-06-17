@@ -456,7 +456,7 @@ Mai MC (Batalha do Monte)
 
 # Regional 018
 
-??? (Batalha das Letras) - 14/06 (literalmente sem nenhuma informação)
+Pedro Onze (Batalha das Letras)
 
 ??? (Batalha da Matriz) - 18/06
 
