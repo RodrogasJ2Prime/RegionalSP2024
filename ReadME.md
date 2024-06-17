@@ -14,7 +14,7 @@ Iago MC (Batalha do Milênio)
 
 Lobão (Batalha da Pista Indaiatuba)
 
-??? (Batalha da Pista Perus) - 16/06
+Skinny (Batalha da Pista Perus)
 
 ??? (Batalha Estação da Rima) - 17/06
 
@@ -78,7 +78,7 @@ Levinsk (Batalha da Aldeia)
 
 Wills (Batalha da Martinha)
 
-??? (Batalha da D) - 16/06
+Jhony (Batalha da D)
 
 ??? (Batalha da VJ) - 17/06
 
@@ -288,9 +288,9 @@ Seven (Batalha do Doiz7)
 
 Stiller (Batalha do Belas Artes)
 
-Roddy MC (Batalha do Céu) - 15/06
+Roddy MC (Batalha do Céu)
 
-??? (Batalha do Caoz) - 16/06
+??? (Batalha do Caoz) - 16/06 (sem informações)
 
 ??? (Batalha do Skinão) - 18/06
 
@@ -318,7 +318,7 @@ Roddy MC (Batalha do Céu) - 15/06
 
 Zoio Baixo (Batalha dos 13)
 
-??? (Batalha do Lago) - 16/06
+Math (Batalha do Lago)
 
 ??? (Batalha do Brejão) - 22/06
 
@@ -394,7 +394,7 @@ Satsu (Batalha da Alcateia)
 
 ??? (Boom Battle) - 15/06 (sem informações, mas suponho que o Akira tenha sido campeão)
 
-??? (Batalha da Fonte) - 16/06
+??? (Batalha da Fonte) - 16/06 (não teve...????)
 
 ??? (Batalha Nova Era) - 20/06
 
@@ -496,7 +496,7 @@ Pedrin (Batalha Sem Saída)
 
 ??? (Batalha do Levante) - 15/06 (sem informações)
 
-??? (Batalha do CEU) - 16/06
+??? (Batalha do CEU) - 16/06 (sem informações)
 
 ??? (Batalha do Parque) - 20/06
 
