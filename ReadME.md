@@ -290,7 +290,7 @@ Stiller (Batalha do Belas Artes)
 
 Roddy MC (Batalha do Céu)
 
-??? (Batalha do Caoz) - 16/06 (sem informações)
+Yato MC (Batalha do Caoz)
 
 ??? (Batalha do Skinão) - 18/06
 
@@ -392,7 +392,7 @@ HRM (Batalha da Ressaca)
 
 Satsu (Batalha da Alcateia)
 
-??? (Boom Battle) - 15/06 (sem informações, mas suponho que o Akira tenha sido campeão)
+??? (Boom Battle) - 15/06 (sem informações)
 
 ??? (Batalha da Fonte) - 16/06 (não teve...????)
 
@@ -494,7 +494,7 @@ Mai MC (Batalha do Monte)
 
 Pedrin (Batalha Sem Saída)
 
-??? (Batalha do Levante) - 15/06 (sem informações)
+Tavio (Batalha do Levante)
 
 ??? (Batalha do CEU) - 16/06 (sem informações)
 
