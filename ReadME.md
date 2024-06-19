@@ -16,9 +16,9 @@ Lobão (Batalha da Pista Indaiatuba)
 
 Skinny (Batalha da Pista Perus)
 
-??? (Batalha Estação da Rima) - 17/06
+??? (Batalha Estação da Rima) - 17/06 (sem informações)
 
-??? (Batalha da Home) - 18/06
+Brunnin (Batalha da Home)
 
 ??? (Duelo Du Bronks) - 21/06
 
@@ -80,11 +80,11 @@ Wills (Batalha da Martinha)
 
 Jhony (Batalha da D)
 
-??? (Batalha da VJ) - 17/06
+Okai (Batalha da VJ)
 
-??? (Batalha da Revolução) - 17/06
+Riaj (Batalha da Revolução)
 
-??? (Batalha da Matrix) - 18/06
+Ajota (Batalha da Matrix)
 
 ??? (Batalha do Kaos) - 19/06
 
@@ -122,9 +122,9 @@ Nego da ZN (Batalha da Penha)
 
 Durap (Batalha do Imigra)
 
-??? (Batalha do Carrão) - 17/06
+Riggs (Batalha do Carrão)
 
-??? (Batalha da Linear) - 18/06
+João Negro (Batalha da Linear)
 
 ??? (Batalha dos Estudantes) - 19/06
 
@@ -148,9 +148,9 @@ Durap (Batalha do Imigra)
 
 Maria ZN (Batalha do Ana Rosa/Diversidade)
 
-??? (Terça Fire) - 18/06
+Zap (Terça Fire)
 
-??? (Terça Fire) - 18/06
+KPzitu (Terça Fire)
 
 ??? (Batalha da Folha) - 22/06
 
@@ -214,8 +214,6 @@ Guizap (Batalha da Zil)
 
 Jorgin (Batalha da Arte)
 
-??? (Resenha Central) - 16/06
-
 ??? (Arena MC) - 21/06
 
 ??? (Batalha da Esperança) - 22/06
@@ -233,6 +231,8 @@ Jorgin (Batalha da Arte)
 ??? (Batalha do Cruzeiro) - 05/07
 
 ??? (Batalha do Pira) - 06/07
+
+??? (Resenha Central) - 07/07
 
 ??? (Batalha Nois Por Nois) - 07/07
 
@@ -292,7 +292,7 @@ Roddy MC (Batalha do Céu)
 
 Yato MC (Batalha do Caoz)
 
-??? (Batalha do Skinão) - 18/06
+Grafiteh (Batalha do Skinão)
 
 ??? (Batalha da Santa 013) - 20/06
 
@@ -458,7 +458,7 @@ Mai MC (Batalha do Monte)
 
 Pedro Onze (Batalha das Letras)
 
-??? (Batalha da Matriz) - 18/06
+Ed (Batalha da Matriz)
 
 ??? (Batalha da Môntica) - 19/06
 
