@@ -46,9 +46,9 @@ Guri (Batalha da Aldeia)
 
 Levinsk (Batalha da Aldeia)
 
-??? (Largo da Batalha) - 19/06
+Papi MC (Largo da Batalha)
 
-??? (Largo da Batalha) - 19/06
+Lecroy (Largo da Batalha) 
 
 ??? (Batalha da Divisão) - 21/06
 
@@ -126,7 +126,7 @@ Riggs (Batalha do Carrão)
 
 João Negro (Batalha da Linear)
 
-??? (Batalha dos Estudantes) - 19/06
+Lino MC (Batalha dos Estudantes)
 
 ??? (Batalha do Point) - 20/06
 
