@@ -460,7 +460,7 @@ Pedro Onze (Batalha das Letras)
 
 Ed (Batalha da Matriz)
 
-??? (Batalha da Môntica) - 19/06
+??? (Batalha da Môntica) - 19/06 (sem informações)
 
 ??? (Batalha da Jóia) - 21/06
 
