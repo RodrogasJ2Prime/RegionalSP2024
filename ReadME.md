@@ -56,9 +56,9 @@ Tallesty (Batalha da Divisão)
 
 ??? (UNIÃO FREESTYLE) - 21/06
 
-??? (Batalha Sexta Rap) - 21/06 
+Nicão (Batalha Sexta Rap) - 21/06 
 
-??? (Batalha Sexta Rap) - 21/06 
+Atlanta (Batalha Sexta Rap) - 21/06 
 
 ??? (Cotia Tem Rap) - 06/07
 
