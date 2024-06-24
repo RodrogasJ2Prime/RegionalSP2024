@@ -252,7 +252,7 @@ Chagas (Batalha da Bíblia)
 
 Victú SL (Batalha do Pasin)
 
-??? (Batalha do Centro) - 23/06
+Castilho (Batalha do Centro)
 
 ??? (Batalha do Morro) - 23/06
 
