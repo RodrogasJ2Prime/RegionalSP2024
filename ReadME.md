@@ -50,7 +50,7 @@ Papi MC (Largo da Batalha)
 
 Lecroy (Largo da Batalha) 
 
-??? (Batalha da Divisão) - 21/06
+Tallesty (Batalha da Divisão)
 
 ??? (UNIÃO FREESTYLE) - 21/06
 
@@ -128,7 +128,7 @@ João Negro (Batalha da Linear)
 
 Lino MC (Batalha dos Estudantes)
 
-??? (Batalha do Point) - 20/06
+Naia (Batalha do Point)
 
 ??? (Batalha do Santa Cruz) - 22/06
 
@@ -186,7 +186,7 @@ Meno do Jota (Batalha da Selva SP)
 
 Refel (Batalha do Morro)
 
-??? (Batalha Tucuruvi) - 20/06
+Lion (Batalha Tucuruvi)
 
 ??? (Batalha da Fábrica) - 22/06
 
@@ -294,7 +294,7 @@ Yato MC (Batalha do Caoz)
 
 Grafiteh (Batalha do Skinão)
 
-??? (Batalha da Santa 013) - 20/06
+RDR MC (Batalha da Santa 013) - 20/06
 
 ??? (Batalha da B1) - 21/06
 
@@ -392,15 +392,13 @@ HRM (Batalha da Ressaca)
 
 Satsu (Batalha da Alcateia)
 
-??? (Boom Battle) - 15/06 (sem informações)
+Off Akira (Boom Battle)
 
-??? (Batalha da Fonte) - 16/06 (não teve...????)
+Jimmy (Batalha Nova Era)
 
-??? (Batalha Nova Era) - 20/06
+Bubba (Batalha Nova Era)
 
-??? (Batalha Nova Era) - 20/06
-
-??? (Batalha dos Pombos) - 20/06
+Shangai (Batalha dos Pombos)
 
 ??? (Sangue na 7) - 04/07
 
@@ -460,7 +458,7 @@ Pedro Onze (Batalha das Letras)
 
 Ed (Batalha da Matriz)
 
-??? (Batalha da Môntica) - 19/06 (sem informações)
+Galo 13 MC (Batalha da Môntica)
 
 ??? (Batalha da Jóia) - 21/06
 
@@ -498,7 +496,7 @@ Tavio (Batalha do Levante)
 
 Disom (Batalha do CEU)
 
-??? (Batalha do Parque) - 20/06
+Samcro (Batalha do Parque)
 
 ??? (Guerrilha Verbal) - 21/06
 
