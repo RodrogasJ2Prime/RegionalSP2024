@@ -250,7 +250,7 @@ Zaias (Batalha dos Trilhos)
 
 Chagas (Batalha da Bíblia)
 
-??? (Batalha do Pasin) - 21/06
+Victú SL (Batalha do Pasin)
 
 ??? (Batalha do Centro) - 23/06
 
@@ -294,9 +294,9 @@ Yato MC (Batalha do Caoz)
 
 Grafiteh (Batalha do Skinão)
 
-RDR MC (Batalha da Santa 013) - 20/06
+RDR MC (Batalha da Santa 013)
 
-??? (Batalha da B1) - 21/06
+Cavera (Batalha da B1)
 
 ??? (Batalha do Mundão) - 24/06
 
@@ -460,7 +460,7 @@ Ed (Batalha da Matriz)
 
 Galo 13 MC (Batalha da Môntica)
 
-??? (Batalha da Jóia) - 21/06
+Junin MC (Batalha da Jóia)
 
 ??? (Batalha da Pérola) - 29/06
 
@@ -498,9 +498,9 @@ Disom (Batalha do CEU)
 
 Samcro (Batalha do Parque)
 
-??? (Guerrilha Verbal) - 21/06
+DA9 (Guerrilha Verbal)
 
-??? (Batalha do Cálice) - 21/06
+Nivii (Batalha do Cálice)
 
 ??? (Batalha da DZ9) - 23/06
 
