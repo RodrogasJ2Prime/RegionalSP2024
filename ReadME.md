@@ -320,9 +320,9 @@ Zoio Baixo (Batalha dos 13)
 
 Math (Batalha do Lago)
 
-??? (Batalha do Brejão) - 22/06
+Terrão (Batalha do Brejão)
 
-??? (Batalha do Brejão) - 22/06
+Criolon (Batalha do Brejão)
 
 ??? (Batalha da CKP) - 23/06 (sem informações)
 
