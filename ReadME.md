@@ -90,7 +90,7 @@ Brunine (Batalha do Kaos)
 
 ??? (Batalha da Central) - 21/06 (sem informações)
 
-Lil Alvez (Batalha da Palavra) - 22/06
+Lil Alvez (Batalha da Palavra)
 
 ??? (Batalha do Rugde) - 24/06
 
@@ -130,9 +130,9 @@ Lino MC (Batalha dos Estudantes)
 
 Naia (Batalha do Point)
 
-??? (Batalha do Santa Cruz) - 22/06
+Xilito (Batalha do Santa Cruz)
 
-??? (Batalha do Imperador) - 23/06
+Light (Batalha do Imperador)
 
 ??? (Batalha do Cente) - 04/07
 
@@ -152,9 +152,9 @@ Zap (Terça Fire)
 
 KPzitu (Terça Fire)
 
-??? (Batalha da Folha) - 22/06
+SK BLACK (Batalha da Folha)
 
-??? (Batalha do Moritz) - 23/06
+Ariel MC (Batalha do Moritz)
 
 ??? (Batalha Grajaú Rap City) - 27/06
 
@@ -188,7 +188,7 @@ Refel (Batalha do Morro)
 
 Lion (Batalha Tucuruvi)
 
-??? (Batalha da Fábrica) - 22/06
+TCA (Batalha da Fábrica)
 
 ??? (Batalha do Senna ZN) - 29/06
 
@@ -214,9 +214,9 @@ Guizap (Batalha da Zil)
 
 Jorgin (Batalha da Arte)
 
-??? (Arena MC) - 21/06
+??? (Arena MC) - 21/06 (sem informações MESMO)
 
-??? (Batalha da Esperança) - 22/06
+??? (Batalha da Esperança) - 22/06 (também sem informações)
 
 ??? (Batalha do Escadão) - 25/06
 
