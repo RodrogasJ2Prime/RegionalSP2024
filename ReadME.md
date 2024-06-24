@@ -16,15 +16,15 @@ Lobão (Batalha da Pista Indaiatuba)
 
 Skinny (Batalha da Pista Perus)
 
-??? (Batalha Estação da Rima) - 17/06 (sem informações)
+Kayo (Batalha Estação da Rima)
 
 Brunnin (Batalha da Home)
 
-??? (Duelo Du Bronks) - 21/06
+AJS MC (Duelo Du Bronks)
 
-??? (Batalha do Largo) - 22/06
+FJota (Batalha do Largo)
 
-??? (Batalha dos Reais) - 22/06
+Lemão do MV (Batalha dos Reais) - 22/06
 
 ??? (APPLE GREEN) - 27/06
 
@@ -86,7 +86,7 @@ Riaj (Batalha da Revolução)
 
 Ajota (Batalha da Matrix)
 
-??? (Batalha do Kaos) - 19/06
+Brunine (Batalha do Kaos)
 
 ??? (Batalha da Central) - 21/06
 
