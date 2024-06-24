@@ -324,7 +324,7 @@ Math (Batalha do Lago)
 
 ??? (Batalha do Brejão) - 22/06
 
-??? (Batalha da CKP) - 23/06
+??? (Batalha da CKP) - 23/06 (sem informações)
 
 ??? (Batalha da Baliza) - 24/06
 
@@ -502,9 +502,9 @@ DA9 (Guerrilha Verbal)
 
 Nivii (Batalha do Cálice)
 
-??? (Batalha da DZ9) - 23/06
+Luking (Batalha da DZ9)
 
-??? (Batalha da Hípica) - 23/06
+Kriollo MC (Batalha da Hípica)
 
 ??? (Batalha Central) - 28/06
 
