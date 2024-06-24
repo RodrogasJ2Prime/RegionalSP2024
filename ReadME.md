@@ -24,7 +24,7 @@ AJS MC (Duelo Du Bronks)
 
 FJota (Batalha do Largo)
 
-Lemão do MV (Batalha dos Reais) - 22/06
+Lemão do MV (Batalha dos Reais)
 
 ??? (APPLE GREEN) - 27/06
 
@@ -52,13 +52,13 @@ Lecroy (Largo da Batalha)
 
 Tallesty (Batalha da Divisão)
 
-??? (UNIÃO FREESTYLE) - 21/06
+??? (UNIÃO FREESTYLE) - 21/06 (sem informações)
 
-??? (UNIÃO FREESTYLE) - 21/06
+??? (UNIÃO FREESTYLE) - 21/06 (sem informações)
 
-Nicão (Batalha Sexta Rap) - 21/06 
+Nicão (Batalha Sexta Rap)
 
-Atlanta (Batalha Sexta Rap) - 21/06 
+Atlanta (Batalha Sexta Rap)
 
 ??? (Cotia Tem Rap) - 06/07
 
@@ -88,9 +88,9 @@ Ajota (Batalha da Matrix)
 
 Brunine (Batalha do Kaos)
 
-??? (Batalha da Central) - 21/06
+??? (Batalha da Central) - 21/06 (sem informações)
 
-??? (Batalha da Palavra) - 22/06
+Lil Alvez (Batalha da Palavra) - 22/06
 
 ??? (Batalha do Rugde) - 24/06
 
