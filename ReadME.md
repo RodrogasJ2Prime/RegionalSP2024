@@ -88,11 +88,11 @@ Ajota (Batalha da Matrix)
 
 Brunine (Batalha do Kaos)
 
-??? (Batalha da Central) - 21/06 (sem informações)
+Zety (Batalha da Central)
 
-Lil Alvez (Batalha da Palavra)
+fezin (Batalha da Palavra)
 
-??? (Batalha do Rugde) - 24/06
+Winnit (Batalha do Rugde)
 
 ??? (Batalha das Pistas) - 26/06
 
@@ -214,11 +214,9 @@ Guizap (Batalha da Zil)
 
 Jorgin (Batalha da Arte)
 
-??? (Arena MC) - 21/06 (sem informações MESMO)
-
 ??? (Batalha da Esperança) - 22/06 (também sem informações)
 
-??? (Batalha do Escadão) - 25/06
+Biel (Batalha do Escadão)
 
 ??? (Batalha do América) - 28/06
 
@@ -256,7 +254,7 @@ Castilho (Batalha do Centro)
 
 Matheuzzz (Batalha do Morro)
 
-??? (Batalha da Montanha) - 25/06
+GK (Batalha da Montanha)
 
 ??? (Batalha da Ponte) - 27/06
 
@@ -298,7 +296,7 @@ RDR MC (Batalha da Santa 013)
 
 Cavera (Batalha da B1)
 
-??? (Batalha do Mundão) - 24/06
+GN Mike (Batalha do Mundão)
 
 ??? (Batalha da Celeste) - 27/06
 
@@ -308,7 +306,7 @@ Cavera (Batalha da B1)
 
 ??? (Batalha da Guerra) - 07/07
 
-??? (Batalha do Caoz/Diversidade) - 07/07
+??? (????/Diversidade) - A definir
 
 ??? (Batalha do X) - 08/07
 
@@ -326,7 +324,7 @@ Criolon (Batalha do Brejão)
 
 ??? (Batalha da CKP) - 23/06 (sem informações)
 
-??? (Batalha da Baliza) - 24/06
+Felpss7 (Batalha da Baliza)
 
 ??? (Batalha do Rasi) - 26/06
 
