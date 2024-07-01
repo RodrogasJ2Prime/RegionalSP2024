@@ -258,11 +258,11 @@ GK (Batalha da Montanha)
 
 Caio (Batalha da Ponte)
 
-??? (Batalha da Exque) - 28/06
+??? (Batalha da Exque) - 28/06 (sem informações)
 
-??? (Batalha do Polly) - 29/06
+Nan (Batalha do Polly)
 
-??? (Duelo de Rua) - 29/06
+??? (Duelo de Rua) - 29/06 (sem informações)
 
 ??? (Batalha do Beco Diagonal 012) - 03/07
 
@@ -298,7 +298,7 @@ Cavera (Batalha da B1)
 
 GN Mike (Batalha do Mundão)
 
-??? (Batalha da Celeste) - 27/06
+Saboó (Batalha da Celeste)
 
 ??? (Batalha do Buda) - 05/07
 
@@ -328,13 +328,13 @@ Felpss7 (Batalha da Baliza)
 
 ??? (Batalha do Rasi) - 26/06 (sem informações)
 
-??? (Batalha da Pista) - 28/06
+??? (Batalha da Pista) - 28/06 (sem informações)
 
-??? (Batalha da Pista) - 28/06
+??? (Batalha da Pista) - 28/06 (sem informações)
 
-??? (Batalha Bthz) - 29/06
+??? (Batalha Bthz) - 29/06 (sem informações)
 
-??? (Batalha Bthz) - 29/06
+??? (Batalha Bthz) - 29/06 (sem informações)
 
 ??? (Batalha da BSP) - 06/07
 
@@ -356,13 +356,13 @@ Hayato (Batalha das Capivaras)
 
 Osama (Batalha da Rua 15)
 
-??? (Batalha da Anchieta) - 27/06
+??? (Batalha da Anchieta) - 27/06 (sem informações)
 
-??? (Batalha da Anchieta) - 27/06
+??? (Batalha da Anchieta) - 27/06 (sem informações)
 
-??? (Batalha da Fênix) - 29/06
+Mano Ayron (Batalha da Fênix)
 
-??? (Batalha da Fênix) - 29/06
+Caasi (Batalha da Fênix)
 
 ??? (Batalha do VTR) - 04/07
 
