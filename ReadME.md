@@ -94,7 +94,7 @@ fezin (Batalha da Palavra)
 
 Winnit (Batalha do Rugde)
 
-??? (Batalha das Pistas) - 26/06
+Delta (Batalha das Pistas)
 
 ??? (Batalha do Celeste) - 26/06
 
