@@ -426,17 +426,17 @@ Zanini (Batalha do Monte)
 
 Mai MC (Batalha do Monte)
 
-??? (Batalha do Pacha) - 26/06
+Pedrinho ZS (Batalha do Pacha)
 
-??? (Batalha do Pacha) - 26/06
+??? (Batalha do Pacha) - 26/06 (sem informações... do vice)
 
-??? (Batalha do Primavera) - 28/06
+Emici (Batalha do Primavera)
 
-??? (Batalha do Primavera) - 28/06
+Big Bread (Batalha do Primavera)
 
-??? (Batalha do Half) - 29/06
+??? (Batalha do Half) - 29/06 (sem informações)
 
-??? (Batalha do Half) 29/06
+??? (Batalha do Half) 29/06 (eu não aguento mais)
 
 ??? (Batalha do Braile) - 07/07
 
@@ -460,11 +460,11 @@ Galo 13 MC (Batalha da Môntica)
 
 Junin MC (Batalha da Jóia)
 
-??? (Batalha da Pérola) - 29/06
+??? (Batalha da Pérola) - 29/06 (sem informações)
 
-??? (Batalha da Pista) - 30/06
+??? (Batalha da Pista) - 30/06 (sem informações)
 
-??? (Batalha do Ceu's) - 30/06
+Muka (Batalha do Ceu's)
 
 ??? (Batalha da Estação 018) - 04/07
 
@@ -504,13 +504,13 @@ Luking (Batalha da DZ9)
 
 Kriollo MC (Batalha da Hípica)
 
-??? (Batalha Central) - 28/06
+??? (Batalha Central) - 28/06 (sem informações)
 
-??? (Indaia Batalha) - 30/06
+??? (Indaia Batalha) - 30/06 ("sem" informações)
 
-??? (Alvorecer) - 30/06
+Ph (Alvorecer)
 
-??? (Batalha da Norte 019) - 30/06
+Mitolas (Batalha da Norte 019)
 
 ??? (Batalha da WL) - 04/07
 
