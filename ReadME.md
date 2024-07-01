@@ -26,11 +26,11 @@ FJota (Batalha do Largo)
 
 Lemão do MV (Batalha dos Reais)
 
-??? (APPLE GREEN) - 27/06
+THM (APPLE GREEN)
 
-??? (Batalha do Cantareira) - 27/06
+R.O (Batalha do Cantareira)
 
-??? (Batalha do Parque ZN) - 29/06
+??? (Batalha do Parque ZN) - 29/06 (sem informações)
 
 ??? (Batalha da Rubi) - 01/07
 
@@ -52,9 +52,9 @@ Lecroy (Largo da Batalha)
 
 Tallesty (Batalha da Divisão)
 
-??? (UNIÃO FREESTYLE) - 21/06 (sem informações)
+Slow (UNIÃO FREESTYLE)
 
-??? (UNIÃO FREESTYLE) - 21/06 (sem informações)
+Historiador (UNIÃO FREESTYLE)
 
 Nicão (Batalha Sexta Rap)
 
@@ -96,11 +96,11 @@ Winnit (Batalha do Rugde)
 
 Delta (Batalha das Pistas)
 
-??? (Batalha do Celeste) - 26/06
+MC Braga (Batalha do Celeste)
 
-??? (Batalha da Vila Luzita) - 30/06
+Guizera (Batalha da Vila Luzita)
 
-??? (Batalha da VR) - 30/06
+GS (Batalha da VR)
 
 ??? (Batalha do Paço) - 05/07
 
@@ -156,15 +156,15 @@ SK BLACK (Batalha da Folha)
 
 Ariel MC (Batalha do Moritz)
 
-??? (Batalha Grajaú Rap City) - 27/06
+El Chapo (Batalha Grajaú Rap City)
 
-??? (Batalha Grajaú Rap City) - 27/06
+Weverton (Batalha Grajaú Rap City)
 
-??? (Projeto Mais Rap) - 28/06
+Driller do Taboão (Projeto Mais Rap)
 
-??? (Projeto Mais Rap) - 28/06
+Moska (Projeto Mais Rap)
 
-??? (Batalha de rimas de Embu Guaçu) - 30/06
+??? (Batalha de rimas de Embu Guaçu) - 30/06 (sem informações)
 
 ??? (Batalha da Estação) - 05/07
 
@@ -190,9 +190,9 @@ Lion (Batalha Tucuruvi)
 
 TCA (Batalha da Fábrica)
 
-??? (Batalha do Senna ZN) - 29/06
+Dhiowzin (Batalha do Senna ZN)
 
-??? (Batalha Tremembé) - 30/06
+Tavin🙏 (Batalha Tremembé)
 
 ??? (Batalha da Juventude) - 02/07
 
@@ -214,17 +214,17 @@ Guizap (Batalha da Zil)
 
 Jorgin (Batalha da Arte)
 
-??? (Batalha da Esperança) - 22/06 (também sem informações)
+??? (Batalha da Esperança) - 22/06 (ainda sem informações)
 
 Biel (Batalha do Escadão)
 
-??? (Batalha do América) - 28/06
+??? (Batalha do América) - 28/06 (sem informações)
 
-??? (Batalha da Teles) - 28/06
+Tozarelli (Batalha da Teles)
 
-??? (Batalha da Leste) - 29/06
+Youngui (Batalha da Leste)
 
-??? (@abatalhadohelena) - 29/06
+Juh Altão (@abatalhadohelena)
 
 ??? (Batalha do Cruzeiro) - 05/07
 
@@ -256,7 +256,7 @@ Matheuzzz (Batalha do Morro)
 
 GK (Batalha da Montanha)
 
-??? (Batalha da Ponte) - 27/06
+Caio (Batalha da Ponte)
 
 ??? (Batalha da Exque) - 28/06
 
@@ -326,7 +326,7 @@ Criolon (Batalha do Brejão)
 
 Felpss7 (Batalha da Baliza)
 
-??? (Batalha do Rasi) - 26/06
+??? (Batalha do Rasi) - 26/06 (sem informações)
 
 ??? (Batalha da Pista) - 28/06
 
