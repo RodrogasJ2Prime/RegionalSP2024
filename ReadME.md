@@ -460,7 +460,7 @@ Galo 13 MC (Batalha da Môntica)
 
 Junin MC (Batalha da Jóia)
 
-??? (Batalha da Pérola) - 29/06 (sem informações)
+Lahrgado (Batalha da Pérola)
 
 ??? (Batalha da Pista) - 30/06 (sem informações)
 
