@@ -32,7 +32,7 @@ R.O (Batalha do Cantareira)
 
 ??? (Batalha do Parque ZN) - 29/06 (sem informações)
 
-??? (Batalha da Rubi) - 01/07
+Kadrosh (Batalha da Rubi)
 
 ??? (Batalha da Estação) - 06/07
 
