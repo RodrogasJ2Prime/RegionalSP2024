@@ -258,7 +258,7 @@ GK (Batalha da Montanha)
 
 Caio (Batalha da Ponte)
 
-??? (Batalha da Exque) - 28/06 (sem informações)
+Carrasco (Batalha da Exque)
 
 Nan (Batalha do Polly)
 
@@ -322,19 +322,19 @@ Terrão (Batalha do Brejão)
 
 Criolon (Batalha do Brejão)
 
-??? (Batalha da CKP) - 23/06 (sem informações)
+Pairo (Batalha da CKP)
 
 Felpss7 (Batalha da Baliza)
 
 ??? (Batalha do Rasi) - 26/06 (sem informações)
 
-??? (Batalha da Pista) - 28/06 (sem informações)
+V.L. Jão (Batalha da Pista)
 
-??? (Batalha da Pista) - 28/06 (sem informações)
+Barbosa MC (Batalha da Pista)
 
-??? (Batalha Bthz) - 29/06 (sem informações)
+Clovinho (Batalha Bthz)
 
-??? (Batalha Bthz) - 29/06 (sem informações)
+Talibã (Batalha Bthz)
 
 ??? (Batalha da BSP) - 06/07
 
@@ -428,15 +428,15 @@ Mai MC (Batalha do Monte)
 
 Pedrinho ZS (Batalha do Pacha)
 
-??? (Batalha do Pacha) - 26/06 (sem informações... do vice)
+Días MS (Batalha do Pacha)
 
 Emici (Batalha do Primavera)
 
 Big Bread (Batalha do Primavera)
 
-??? (Batalha do Half) - 29/06 (sem informações)
+Souza MC (Batalha do Half)
 
-??? (Batalha do Half) 29/06 (eu não aguento mais)
+1R8 (Batalha do Half)
 
 ??? (Batalha do Braile) - 07/07
 
@@ -504,7 +504,7 @@ Luking (Batalha da DZ9)
 
 Kriollo MC (Batalha da Hípica)
 
-??? (Batalha Central) - 28/06 (sem informações)
+Jonão (Batalha Central)
 
 ??? (Indaia Batalha) - 30/06 ("sem" informações)
 
