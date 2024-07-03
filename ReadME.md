@@ -164,7 +164,7 @@ Driller do Taboão (Projeto Mais Rap)
 
 Moska (Projeto Mais Rap)
 
-??? (Batalha de rimas de Embu Guaçu) - 30/06 (sem informações)
+Oliveira MC (Batalha de rimas de Embu Guaçu)
 
 ??? (Batalha da Estação) - 05/07
 
