@@ -136,7 +136,7 @@ Light (Batalha do Imperador)
 
 MaiaG (Batalha do Cente)
 
-Broovk.z (Batalha do Orobó)
+Broock.z (Batalha do Orobó)
 
 Kairós (Batalha do Amarelo)
 
@@ -172,7 +172,7 @@ Luca (Batalha da Sul)
 
 Rasta da Paz (Batalha da Lilás)
 
-Levi (Batalha do Lado Sul)
+Levi MC (Batalha do Lado Sul)
 
 ----------------------------------------------------
 
@@ -262,15 +262,15 @@ Carrasco (Batalha da Exque)
 
 Nan (Batalha do Polly)
 
-Duvale (Duelo de Rua)
+??? (Duelo de Rua) - 29/06 (sem informações)
 
-Lil Vicky (Batalha do Beco Diagonal 012)
+Duvale (Batalha do Beco Diagonal 012)
 
-Black Panter (Pedrada Taiada)
+Lil Vicky (Pedrada Taiada)
   
 ??? (Pavilhão de Rimas) - 06/07
 
-??? (Batalha do Correto 012) - 06/07
+Black Panter (Batalha do Correto 012)
 
 Dehat (Batalha do Deck)
 
@@ -338,11 +338,11 @@ Talibã (Batalha Bthz)
 
 ??? (Batalha da BSP) - 06/07
 
-Jesk (Batalha da 014) - 07/07
+Jesk (Batalha da 014)
 
-Dreyz (Batalha da Maracatu) - 07/07
+Dreyz (Batalha da Maracatu)
 
-Matteuzin (Batalha da Maracatu) - 07/07
+Matteuzin (Batalha da Maracatu)
 
 ??? (????/Diversidade) - A definir
 
@@ -356,27 +356,27 @@ Hayato (Batalha das Capivaras)
 
 Osama (Batalha da Rua 15)
 
-??? (Batalha da Anchieta) - 27/06 (sem informações)
+Lil Garcia (Batalha da Anchieta)
 
-??? (Batalha da Anchieta) - 27/06 (sem informações)
+Leonan (Batalha da Anchieta)
 
 Mano Ayron (Batalha da Fênix)
 
 Caasi (Batalha da Fênix)
 
-??? (Batalha do VTR) - 04/07
+??? (Batalha do VTR) - 04/07 (sem informações)
 
-??? (Resenha dos MCs) - 05/07
+Kaos (Resenha dos MCs)
 
-??? (Resenha dos MCs) - 05/07
+NG MC (Resenha dos MCs)
 
-??? (Duelo dos Menor) - 06/07
+16T (Duelo dos Menor)
 
-??? (Duelo dos Menor) - 06/07
+Ric4rdo (Duelo dos Menor)
 
-??? (Batalha do Senna) - 06/07
+GB (Batalha do Senna)
 
-??? (Batalha do Senna) - 06/07
+Kordi (Batalha do Senna) 
 
 ??? (????/Diversidade) - A definir
 
@@ -398,13 +398,15 @@ Bubba (Batalha Nova Era)
 
 Shangai (Batalha dos Pombos)
 
-??? (Sangue na 7) - 04/07
+Haiki (Sangue na 7)
 
-??? (Sangue na 7/ - 04/07
+Tyrano (Sangue na 7) 
 
-??? (Batalha da YinYang) - 05/07
+??? (Batalha da YinYang) - 05/07 (sem informações)
 
 ??? (Batalha da Vibe) - 06/07
+
+??? (Boom Battle) - 06/07
 
 ??? (Batalha do Leporace) - 07/07
 
