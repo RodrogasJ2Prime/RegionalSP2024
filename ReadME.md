@@ -200,7 +200,7 @@ Tazz (Batalha da Brasilândia)
 
 Riquelme (Batalha do Canaã)
 
-??? (Batalha do Wi-fi) - 07/07
+??? (Batalha do Wi-fi) - 07/07 (sem informações)
 
 ??? (Batalha do Suco) - 09/07
 
@@ -218,7 +218,7 @@ Jorgin (Batalha da Arte)
 
 Biel (Batalha do Escadão)
 
-??? (Batalha do América) - 28/06 (sem informações)
+Vulgo J (Batalha do América) 
 
 Tozarelli (Batalha da Teles)
 
@@ -234,7 +234,7 @@ Ezek (Resenha Central)
 
 Mateus (Batalha Nois Por Nois)
 
-??? (Batalha da PX) - 07/07
+Mano Zumbi (Batalha da PX)
 
 ??? (Batalha dos Loko) - 10/07
 
