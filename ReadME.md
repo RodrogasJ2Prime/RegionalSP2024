@@ -34,7 +34,7 @@ R.O (Batalha do Cantareira)
 
 Kadrosh (Batalha da Rubi)
 
-??? (Batalha da Estação) - 06/07
+Criss (Batalha da Estação)
 
 ??? (Batalha Estação da Rima/Diversidade) - 08/07
 
@@ -60,15 +60,15 @@ Nicão (Batalha Sexta Rap)
 
 Atlanta (Batalha Sexta Rap)
 
-??? (Cotia Tem Rap) - 06/07
+Rafael ZO (Cotia Tem Rap)
 
-??? (Batalha da Stand) - 06/07
+Lil Vi (Batalha da Stand)
 
 ~Batalha do Qpar~ - Banida por descumprimento de regras
 
-??? (Batalha da 2M) - 07/07
+Brinquedo (Batalha da 2M)
 
-??? (Batalha do Villa) - 07/07
+Gian (Batalha do Villa)
 
 ??? (????/Diversidade) - A definir
 
@@ -102,9 +102,9 @@ Guizera (Batalha da Vila Luzita)
 
 GS (Batalha da VR)
 
-??? (Batalha do Paço) - 05/07
+Door (Batalha do Paço)
 
-??? (Batalha da Area) - 06/07
+??? (Batalha da Area) - 06/07 (sem informações)
 
 ??? (????/Diversidade) - A definir
 
@@ -134,11 +134,11 @@ Xilito (Batalha do Santa Cruz)
 
 Light (Batalha do Imperador)
 
-??? (Batalha do Cente) - 04/07
+MaiaG (Batalha do Cente)
 
-??? (Batalha do Orobó) - 05/07
+Broovk.z (Batalha do Orobó)
 
-??? (Batalha do Amarelo) - 06/07
+Kairós (Batalha do Amarelo)
 
 ??? (Batalha da Conc) - 09/07
 
@@ -166,13 +166,13 @@ Moska (Projeto Mais Rap)
 
 Oliveira MC (Batalha de rimas de Embu Guaçu)
 
-??? (Batalha da Estação) - 05/07
+Lobo de Rua (Batalha da Estação)
 
-??? (Batalha da Sul) - 06/07
+Luca (Batalha da Sul)
 
-??? (Batalha da Lilás) - 07/07
+Rasta da Paz (Batalha da Lilás)
 
-??? (Batalha do Lado Sul) - 07/07
+Levi (Batalha do Lado Sul)
 
 ----------------------------------------------------
 
@@ -194,11 +194,11 @@ Dhiowzin (Batalha do Senna ZN)
 
 Tavin🙏 (Batalha Tremembé)
 
-??? (Batalha da Juventude) - 02/07
+Killua (Batalha da Juventude)
 
-??? (Batalha da Brasilândia) - 03/07
+Tazz (Batalha da Brasilândia)
 
-??? (Batalha do Canaã) - 06/07
+Riquelme (Batalha do Canaã)
 
 ??? (Batalha do Wi-fi) - 07/07
 
@@ -226,13 +226,13 @@ Youngui (Batalha da Leste)
 
 Juh Altão (@abatalhadohelena)
 
-??? (Batalha do Cruzeiro) - 05/07
+Cehz (Batalha do Cruzeiro)
 
-??? (Batalha do Pira) - 06/07
+Jesp (Batalha do Pira)
 
-??? (Resenha Central) - 07/07
+Ezek (Resenha Central)
 
-??? (Batalha Nois Por Nois) - 07/07
+Mateus (Batalha Nois Por Nois)
 
 ??? (Batalha da PX) - 07/07
 
@@ -262,17 +262,17 @@ Carrasco (Batalha da Exque)
 
 Nan (Batalha do Polly)
 
-??? (Duelo de Rua) - 29/06 (sem informações)
+Duvale (Duelo de Rua)
 
-??? (Batalha do Beco Diagonal 012) - 03/07
+Lil Vicky (Batalha do Beco Diagonal 012)
 
-??? (Pedrada Taiada) - 05/07
-
+Black Panter (Pedrada Taiada)
+  
 ??? (Pavilhão de Rimas) - 06/07
 
 ??? (Batalha do Correto 012) - 06/07
 
-??? (Batalha do Deck) - 07/07
+Dehat (Batalha do Deck)
 
 ??? (????/Diversidade) - A definir
 
@@ -300,11 +300,11 @@ GN Mike (Batalha do Mundão)
 
 Saboó (Batalha da Celeste)
 
-??? (Batalha do Buda) - 05/07
+Lil Luiss (Batalha do Buda)
 
-??? (Batalha do Guaraú) - 05/07
+2R (Batalha do Guaraú)
 
-??? (Batalha da Guerra) - 07/07
+Thxiis (Batalha da Guerra)
 
 ??? (????/Diversidade) - A definir
 
@@ -338,11 +338,11 @@ Talibã (Batalha Bthz)
 
 ??? (Batalha da BSP) - 06/07
 
-??? (Batalha da 014) - 07/07
+Jesk (Batalha da 014) - 07/07
 
-??? (Batalha da Maracatu) - 07/07
+Dreyz (Batalha da Maracatu) - 07/07
 
-??? (Batalha da Maracatu) - 07/07
+Matteuzin (Batalha da Maracatu) - 07/07
 
 ??? (????/Diversidade) - A definir
 
